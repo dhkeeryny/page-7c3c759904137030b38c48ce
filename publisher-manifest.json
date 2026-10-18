@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "a5d883d9bbf3b394cc190166",
+  "owner": "dhkeeryny",
+  "repo": "page-7c3c759904137030b38c48ce",
+  "title": "满速机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c3c759904137030b38c48ce",
+      "a": "满速机场",
+      "b": "",
+      "entity": "满速机场",
+      "brand": "满速机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e1d4dba9a4add58992d93556624b45bbf12c10535744fbd028c22db2f4b66669",
+      "content": {
+        "keyword1": "满速机场",
+        "keyword2": "",
+        "primary_entity": "满速机场",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "满速机场：用问答把页面读完。先看窄栏说明，再对照套餐与客户端入口，最后把疑问摊开。",
+          "AI_DESCRIPTION": "满速机场：用问答把页面读完。先看窄栏说明，再对照套餐与客户端入口，最后把疑问摊开。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{font-size:17px}\nbody{background:#F6E7B8;color:#143528;font-family:\"Songti SC\",\"Noto Serif SC\",\"Georgia\",serif;line-height:1.65}\na{color:#0F4A32;text-decoration:none;border-bottom:1px solid #0F4A32}\na:hover{border-bottom-width:2px}\n.wrap{max-width:1120px;margin:0 auto;padding:12px 18px 72px}\n.crumb{font-size:.78rem;letter-spacing:.08em;text-transform:none;color:#2A5A3C;padding:10px 0 6px}\n.toc{display:flex;flex-wrap:wrap;gap:10px 18px;font-size:.86rem;padding:0 0 28px;border-bottom:1px solid #143528}\n.toc a{border:0;color:#143528}\n.toc a:hover{color:#0A3322}\nmain{padding-top:36px}\n.hero{display:grid;grid-template-columns:minmax(240px,38%) 1fr;min-height:72vh;gap:24px;align-items:start}\n.hero-col{padding-top:8px}\nh1{font-size:clamp(2.1rem,5vw,3.4rem);font-weight:700;line-height:1.15;letter-spacing:.04em;margin:0 0 18px}\n.lead{font-size:1.02rem;max-width:28ch}\n.blank{min-height:40vh}\nh2{font-size:1.45rem;margin:56px 0 16px;letter-spacing:.06em}\nh3{font-size:1.08rem;margin:18px 0 8px}\np,li{margin-bottom:10px}\n.steps{position:relative;max-width:640px}\n.card{position:relative;padding:28px 22px 22px;margin:0 0 22px;overflow:hidden;background:transparent}\n.card .num{position:absolute;right:8px;bottom:-18px;font-size:7rem;line-height:1;font-weight:800;color:#143528;opacity:.08;pointer-events:none}\n.plans{display:grid;grid-template-columns:1fr 1fr;gap:28px;align-items:stretch;margin-top:12px}\n.plan{position:relative;padding:22px 18px 18px;border:1px solid #143528;overflow:hidden;background:#F3E0A4}\n.plan.featured{outline:3px solid #0F4A32;outline-offset:4px}\n.badge{display:inline-block;font-size:.72rem;letter-spacing:.12em;border:1px solid #0F4A32;padding:2px 8px;margin-bottom:10px}\n.price{font-size:1.35rem;margin:8px 0}\n.muted{font-size:.88rem;opacity:.85}\n.plan ul{list-style:none;padding:0;margin-top:10px}\n.plan li{padding-left:0}\n.faq{max-width:640px}\n.bubble{margin:14px 0;max-width:92%}\n.q{background:#143528;color:#F6E7B8;padding:12px 16px;border-radius:16px 16px 16px 4px}\n.a{background:#E8D28A;color:#143528;padding:12px 16px;border-radius:16px 16px 4px 16px;margin-left:8%}\n.clients{max-width:560px}\nfooter{margin-top:64px;font-size:.8rem;opacity:.8}\n@media(max-width:760px){\n.hero{grid-template-columns:1fr;min-height:auto}\n.blank{min-height:12vh}\n.plans{grid-template-columns:1fr}\n}\n</style><div class=\"wrap\">\n<nav>\n<div class=\"crumb\">首页 / 满速机场 / 阅读页</div>\n<div class=\"toc\">\n<a href=\"#how\">怎么开始</a>\n<a href=\"#plans\">套餐对照</a>\n<a href=\"#clients\">客户端入口</a>\n<a href=\"#faq\">把问题问完</a>\n</div>\n</nav>\n<main>\n<section class=\"hero\">\n<div class=\"hero-col\">\n<h1>满速机场</h1>\n<p class=\"lead\">你是不是先想问：这页要不要往下翻？可以。左边把话说完，右边故意留空——读起来不赶。</p>\n<p class=\"lead\">语气按问答走：我问一句，你自己对照下面的段落找答案。</p>\n</div>\n<div class=\"blank\"></div>\n</section>\n<section id=\"how\">\n<h2>使用说明：先问四句</h2>\n<div class=\"steps\">\n<article class=\"card\">\n<span class=\"num\">01</span>\n<h3>你要先确认什么？</h3>\n<p>确认自己打开的是本页标题里的「满速机场」，而不是别的同名站点。事实清单此刻是空的，所以这里不写机构背书、不写节点数量、不写测评。</p>\n</article>\n<article class=\"card\">\n<span class=\"num\">02</span>\n<h3>账号怎么落到手上？</h3>\n<p>按你自己的渠道完成注册与登录。页面不提供表单，也不假装有官方下载按钮。把邮箱或用户名记清楚即可。</p>\n</article>\n<article class=\"card\">\n<span class=\"num\">03</span>\n<h3>套餐怎么挑？</h3>\n<p>把「基础 / 旗舰 / 团队」当成容量与席位的三档对照，而不是性能承诺。价格沿用参考档位，权益改写成可核对的条目，避免空话。</p>\n</article>\n<article class=\"card\">\n<span class=\"num\">04</span>\n<h3>用完要记得什么？</h3>\n<p>关掉不需要的会话、核对剩余额度、把疑问带到文末气泡区。没有退款条款可写，因此也不编造售后时限。</p>\n</article>\n</div>\n</section>\n<section id=\"plans\">\n<h2>套餐：两栏对照，推荐只标一处</h2>\n<p>问：三档并排会不会太挤？答：改成左右两栏，旗舰单独加标记，团队叠在第二栏下方。</p>\n<div class=\"plans\">\n<div>\n<div class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"muted\">按年付参考：¥150/年</p>\n<ul>\n<li>流量额度参考：每月 100GB</li>\n<li>同时在线席位参考：3</li>\n<li>用途说明：适合低频、单人核对账单的用法</li>\n<li>线路表述：普通节点池（仅作档位名称，不作实测）</li>\n</ul>\n</div>\n</div>\n<div>\n<div class=\"plan featured\">\n<p class=\"badge\">对照推荐</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"muted\">按年付参考：¥350/年</p>\n<ul>\n<li>流量额度参考：每月 300GB</li>\n<li>同时在线席位参考：5</li>\n<li>客服表述：工单优先（无响应时限可证，故不写小时数）</li>\n<li>其余条目仅作档位区分，不作加速或解锁承诺</li>\n</ul>\n</div>\n<div class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"muted\">按年付参考：¥850/年</p>\n<ul>\n<li>流量额度参考：每月 1000GB</li>\n<li>同时在线席位参考：20</li>\n<li>协作向：多人分账、路由策略需自行约定</li>\n<li>客户经理：名称保留，职责范围未提供则不展开</li>\n</ul>\n</div>\n</div>\n</div>\n</section>\n<section id=\"clients\">\n<h2>客户端入口</h2>\n<div class=\"clients\">\n<p>问：下载链接在哪？答：目前没有可核验的官方地址，因此不伪造按钮。</p>\n<p>你可以用系统自带的浏览器书签保存本页；若日后出现经核实的客户端路径，再把空链接换成实链。现在所有相关跳转保持为 <a href=\"#\">占位锚点</a>。</p>\n<p>兼容机型、系统版本、日志格式均未提供，故整段不写评测表。</p>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq\">\n<div class=\"bubble q\">这名字是不是等于某种加速服务？</div>\n<div class=\"bubble a\">不能从名字推断服务范围。本页只把「满速机场」当作品牌标题来排版，不声称提供机场或 VPN 业务。</div>\n<div class=\"bubble q\">价格为什么还写出来？</div>\n<div class=\"bubble a\">那是参考档位，方便你对照月付与年付数字。没有交易链接，也没有支付流程。</div>\n<div class=\"bubble q\">出了问题找谁？</div>\n<div class=\"bubble a\">事实里没有客服渠道。先核对自己的登录入口；找不到再停在这一步，而不是编一个工单邮箱。</div>\n</div>\n</section>\n</main>\n<footer>满速机场 · 静态说明页 · 不收集表单</footer>\n</div>",
+          "hash": "54814368616e5e640e9c8986ca8e088b8efb50b9b02d39939f2d4237c879abfa",
+          "seo": {
+            "title": "满速机场 — 先问清楚再决定怎么用",
+            "keywords": "满速机场,使用说明,套餐对照,常见问题",
+            "description": "满速机场：用问答把页面读完。先看窄栏说明，再对照套餐与客户端入口，最后把疑问摊开。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "814",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "5 奶油黄配墨绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6rlh9c.cn",
+    "host": "p-2f9f5d9bce.6rlh9c.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d1a51c1ee180dd506a82291c40b6f6cf47ec43b2492f06d93fab9ace1ba75c18",
+    "sitemap.xml": "5ead9169bc07da844da3bb133b9c0ebb819628c7b91deec0456189b2f77f53c0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "95190390d8964f8058c2a94e0ded3d7277ed0955c93e14704fa2d47f90d2d786",
+    "robots.txt": "80310f2267273bf377aef252f1aab0a89cc5b895475ac91b1e96b118ad3a5d43",
+    "d7cc3f7db686bb37fac8e61b0979b558.txt": "5b652c97ac9874a628d3b245aff444c58cae8b8b5982392cec2f1560a39e965d"
+  },
+  "revision": "c18eff45ea73a7c5fba5a2539e0c743f4171e82d0bf58b8ee3b7113371e929a1"
+}
